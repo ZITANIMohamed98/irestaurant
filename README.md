@@ -1,4 +1,6 @@
 # IRestaurant 
 ## Fine Dining restaurant single page react app 
 ### Preview Link:
-### Figma Design used:
+https://irestaurant.vercel.app/
+### Figma Design used source:
+https://ui8.net/category/freebies
